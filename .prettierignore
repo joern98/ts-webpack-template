@@ -1,0 +1,7 @@
+.DS_Store
+*.pdf
+*.html
+*.md
+
+node_modules/
+dist/
